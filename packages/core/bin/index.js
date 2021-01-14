@@ -1,3 +1,3 @@
 #! /usr/bin/env node
 
-console.log("hello myy-cli-dev")
+console.log("hello world myy-cli-dev")
