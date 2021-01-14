@@ -1,6 +1,6 @@
 {
   "name": "@myy-cli-dev/utils",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "myy-cli-dev/utils",
   "author": "happylittlefish <happylittlefish@icloud.com>",
   "homepage": "",
@@ -19,5 +19,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "7454956c50f3abad2471066b05381969bec5ff30"
+  "gitHead": "deff39ce4dae434ed65572dfa7e2fb774718cb85"
 }
