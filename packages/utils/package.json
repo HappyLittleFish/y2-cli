@@ -1,7 +1,7 @@
 {
-  "name": "@myy-cli-dev/utils",
+  "name": "@y2-cli/utils",
   "version": "1.0.7",
-  "description": "myy-cli-dev/utils",
+  "description": "y2-cli/utils",
   "author": "happylittlefish <happylittlefish@icloud.com>",
   "homepage": "",
   "license": "ISC",
@@ -18,7 +18,7 @@
     "registry": "https://registry.npmjs.org/"
   },
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "test": "echo utils test"
   },
   "gitHead": "59604a6566a7237ddf2fc8e6fe3c4c30b93cc618"
 }

@@ -1,5 +1,5 @@
 {
-  "name": "@myy-cli-dev/core",
+  "name": "@y2-cli/core",
   "version": "1.0.7",
   "description": "> TODO: description",
   "author": "happylittlefish <happylittlefish@icloud.com>",
@@ -7,7 +7,7 @@
   "license": "ISC",
   "main": "lib/core.js",
   "bin": {
-    "myy-cli-dev": "bin/index.js"
+    "y2-cli": "bin/index.js"
   },
   "directories": {
     "lib": "lib",
@@ -21,7 +21,7 @@
     "registry": "https://registry.npmjs.org/"
   },
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "test": "echo core test"
   },
   "gitHead": "59604a6566a7237ddf2fc8e6fe3c4c30b93cc618"
 }
