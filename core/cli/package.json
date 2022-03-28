@@ -23,5 +23,8 @@
   "scripts": {
     "test": "echo core test"
   },
+  "dependencies": {
+    "@y2-cli/utils": "file:../../utils/utils"
+  },
   "gitHead": "59604a6566a7237ddf2fc8e6fe3c4c30b93cc618"
 }
